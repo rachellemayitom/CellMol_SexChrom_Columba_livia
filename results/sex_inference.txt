@@ -1,0 +1,5 @@
+Median autosome depth: 8.245
+Sex chromosome: Z
+Sex chromosome / autosome ratio: 0.964
+W/Y relative depth: NA
+Dosage interpretation: ZZ-like
